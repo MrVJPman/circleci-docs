@@ -73,7 +73,7 @@ Currently all CircleCI docs are located in `circleci-docs/jekyll/_cci2`.
 
 New articles can be added to the [jekyll/_cci2](https://github.com/circleci/circleci-docs/tree/master/jekyll/_cci2) directory in this repo.
 
-We are slowly converting all oue content over to the Asciidoc format. So all new pages should be submitted in Asciidoc.
+We are slowly converting all our content over to the Asciidoc format. So all new pages should be submitted in Asciidoc.
 
 When you make a new article, you will need to add some [**document attributes**](https://docs.asciidoctor.org/asciidoc/latest/attributes/document-attributes/) and [**front matter**](https://jekyllrb.com/docs/frontmatter/). These contains metadata about the article you are writing and are required so everything works on our site.
 
